@@ -4,7 +4,7 @@ I am a ML Engineer, passionate about exploring things around AI and contributing
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SID-SURANGE&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SID-SURANGE&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SID-SURANGE&show_icons=true"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID-SURANGE"/>
 
