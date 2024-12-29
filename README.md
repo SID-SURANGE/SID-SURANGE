@@ -11,5 +11,3 @@ I am a ML Engineer, passionate about exploring things around AI and contributing
 
 Follow me - <br>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharthsurange/)
-
-Updates in progress....
