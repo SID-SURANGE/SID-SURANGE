@@ -25,8 +25,31 @@ I am a GenAI Engineer passionate about exploring and contributing to the AI comm
 
 ## 🌟 Featured Projects
 <!-- Add 2-3 of your best projects with brief descriptions -->
-[![Resume Parser](https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=ResumeParser&theme=dark)](https://github.com/SID-SURANGE/ResumeParser)
-[![AI Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=AI-Sandbox&theme=dark)](https://github.com/SID-SURANGE/AI-Sandbox)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 20px;">
+      <a href="https://github.com/SID-SURANGE/ResumeParser">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=ResumeParser&theme=dark" alt="Resume Parser">
+      </a>
+    </td>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <h3>ResumeParser</h3>
+      <p>A FastAPI and Gradio-powered application that extracts structured information from PDF resumes. Streamlines resume screening with automated parsing, analysis, and skills extraction, experience parsing, and education details identification.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 20px;">
+      <a href="https://github.com/SID-SURANGE/AI-Sandbox">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=AI-Sandbox&theme=dark" alt="AI Sandbox">
+      </a>
+    </td>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <h3>AI-Sandbox</h3>
+      <p>An experimental playground for AI projects showcasing implementations of various machine learning models, including LLMs, computer vision, and NLP applications. My personal AI sandbox for learning, experimenting, and prototyping different AI models and techniques.</p>
+    </td>
+  </tr>
+</table>
+
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharthsurange/)
