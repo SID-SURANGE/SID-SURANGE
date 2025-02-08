@@ -27,28 +27,30 @@ I am a GenAI Engineer passionate about exploring and contributing to the AI comm
 <!-- Add 2-3 of your best projects with brief descriptions -->
 <table>
   <tr>
-    <td width="50%" align="center" valign="top" style="padding: 20px;">
+    <td width="50%" align="center" style="padding: 20px; display: flex; justify-content: center; align-items: center; height: 200px;">
       <a href="https://github.com/SID-SURANGE/ResumeParser">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=ResumeParser&theme=dark" alt="Resume Parser">
       </a>
     </td>
-    <td width="50%" valign="top" style="padding: 20px;">
+    <td width="50%" style="padding: 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; height: 200px;">
       <h3>ResumeParser</h3>
       <p>A FastAPI and Gradio-powered application that extracts structured information from PDF resumes. Streamlines resume screening with automated parsing, analysis, and skills extraction, experience parsing, and education details identification.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="padding: 20px;">
+    <td width="50%" align="center" style="padding: 20px; display: flex; justify-content: center; align-items: center; height: 200px;">
       <a href="https://github.com/SID-SURANGE/AI-Sandbox">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=AI-Sandbox&theme=dark" alt="AI Sandbox">
       </a>
     </td>
-    <td width="50%" valign="top" style="padding: 20px;">
+    <td width="50%" style="padding: 20px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; height: 200px;">
       <h3>AI-Sandbox</h3>
       <p>An experimental playground for AI projects showcasing implementations of various machine learning models, including LLMs, computer vision, and NLP applications. My personal AI sandbox for learning, experimenting, and prototyping different AI models and techniques.</p>
     </td>
   </tr>
 </table>
+
+
 
 
 ## 📫 Connect With Me
