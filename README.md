@@ -94,10 +94,8 @@ Check out my live applications hosted on Hugging Face Spaces:
 
 I enjoy writing about my experiences in AI/ML and sharing insights with the community. Check out my latest posts:
 
-- 📝 **[Whats new with openai's gpt-4o-mini](https://medium.com/@ssurange.dev/whats-new-with-openai-s-gpt-4o-mini-97a79e6047c3)**
-- 📝 **[Deciphering the power of vision language vision language models](https://medium.com/@ssurange.dev/deciphering-the-power-of-vision-language-vision-language-models-b873e06daae5)**
-
-*Find more on my [Medium Profile](#).*
+- 📝 **[Whats new with Openai's gpt-4o-mini](https://medium.com/@ssurange.dev/whats-new-with-openai-s-gpt-4o-mini-97a79e6047c3)**
+- 📝 **[Deciphering the power of Vision language models](https://medium.com/@ssurange.dev/deciphering-the-power-of-vision-language-vision-language-models-b873e06daae5)**
 
 ---
 
