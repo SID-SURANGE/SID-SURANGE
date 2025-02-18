@@ -97,6 +97,7 @@ I enjoy writing about my experiences in AI/ML and sharing insights with the comm
 - 📝 **[Whats new with Openai's gpt-4o-mini](https://medium.com/@ssurange.dev/whats-new-with-openai-s-gpt-4o-mini-97a79e6047c3)**
 - 📝 **[Deciphering the power of Vision language models](https://medium.com/@ssurange.dev/deciphering-the-power-of-vision-language-vision-language-models-b873e06daae5)**
 - 📝 **[AgentForge: A simple AI Agent with Web Search and Image Generation Capabilities](https://medium.com/@ssurange.dev/agentforge-a-simple-ai-agent-with-web-search-and-image-generation-capabilities-8c756f047c05)**
+- 📝 **[ProGAN, StyleGAN, StyleGAN2: Exploring NVIDIA’s breakthroughs](https://medium.com/@sidsurange/c90ddb7f9b61#264d-2312224d64e4)**
 
 ---
 
