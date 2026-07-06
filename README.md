@@ -18,7 +18,7 @@ I build the layer between a raw LLM and something a business can actually rely o
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SID-SURANGE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=SID-SURANGE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID-SURANGE&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
@@ -44,7 +44,7 @@ I build the layer between a raw LLM and something a business can actually rely o
   <tr>
     <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/briefcast">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=briefcast&theme=tokyonight" alt="Briefcast">
+        <img width="100%" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=SID-SURANGE&repo=briefcast&theme=tokyonight" alt="Briefcast">
       </a>
     </td>
     <td width="75%" style="padding: 20px;">
@@ -57,7 +57,7 @@ I build the layer between a raw LLM and something a business can actually rely o
   <tr>
     <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/claude-code-catalog">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=claude-code-catalog&theme=tokyonight" alt="Claude Code Catalog">
+        <img width="100%" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=SID-SURANGE&repo=claude-code-catalog&theme=tokyonight" alt="Claude Code Catalog">
       </a>
     </td>
     <td width="75%" style="padding: 20px;">
@@ -70,7 +70,7 @@ I build the layer between a raw LLM and something a business can actually rely o
   <tr>
     <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/cursor-team-ops">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=cursor-team-ops&theme=tokyonight" alt="Cursor Team Ops">
+        <img width="100%" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=SID-SURANGE&repo=cursor-team-ops&theme=tokyonight" alt="Cursor Team Ops">
       </a>
     </td>
     <td width="75%" style="padding: 20px;">
@@ -83,7 +83,7 @@ I build the layer between a raw LLM and something a business can actually rely o
   <tr>
     <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/ResumeParser">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=ResumeParser&theme=tokyonight" alt="Resume Parser">
+        <img width="100%" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=SID-SURANGE&repo=ResumeParser&theme=tokyonight" alt="Resume Parser">
       </a>
     </td>
     <td width="75%" style="padding: 20px;">
@@ -96,7 +96,7 @@ I build the layer between a raw LLM and something a business can actually rely o
   <tr>
     <td width="25%" align="center" style="padding: 20px;">
       <a href="https://github.com/SID-SURANGE/AI-Sandbox">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SID-SURANGE&repo=AI-Sandbox&theme=tokyonight" alt="AI Sandbox">
+        <img width="100%" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=SID-SURANGE&repo=AI-Sandbox&theme=tokyonight" alt="AI Sandbox">
       </a>
     </td>
     <td width="75%" style="padding: 20px;">
